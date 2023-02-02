@@ -1,0 +1,11 @@
+{
+  "users": [
+    {  "id" : 1,
+      "Age": 12,
+      "Name": "json-server",
+      "Gender": "Male",
+      "Country" : "India",
+      "Profession" : "Student"
+    }
+  ]
+}
